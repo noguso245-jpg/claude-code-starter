@@ -73,9 +73,26 @@ claude
 | カスタムコマンド | なし | **10コマンド** |
 | セットアップサポート | なし | **30分ガイド付き** |
 
-### [完全版を入手する → ¥9,800](https://streamsolty.gumroad.com/l/vhcysn)
+### 完全版を入手する
+
+| プラットフォーム | 決済 | リンク |
+|---|---|---|
+| BOOTH | クレカ・コンビニ・PayPay | [¥9,800 → こちら](https://streamsolty.booth.pm/items/8413724) |
+| Gumroad | クレカ | [¥9,800 → こちら](https://streamsolty.gumroad.com/l/vhcysn) |
+| EN版（Gumroad） | クレカ | [$65 → こちら](https://streamsolty.gumroad.com/l/guuhox) |
 
 7日間全額返金保証。使ってみてから判断してください。
+
+#### 個別パックも販売中（BOOTH）
+
+| パック | 価格 | 内容 |
+|---|---|---|
+| [Skill Pack](https://streamsolty.booth.pm/items/8413751) | ¥2,480 | 53スキル + 10コマンド |
+| [Workflow Pack](https://streamsolty.booth.pm/items/8413775) | ¥2,980 | CLAUDE.mdテンプレート7種 + ワークフロー13パターン |
+| [MCP Stack](https://streamsolty.booth.pm/items/8413793) | ¥1,480 | 設定済みMCPスタック3種 |
+| [Hooks System](https://streamsolty.booth.pm/items/8413811) | ¥1,480 | 安全装置設定5種 |
+| [AI Engineering Playbook](https://streamsolty.booth.pm/items/8413821) | ¥1,980 | 運用マニュアル（8章） |
+| [Prompt Workflow System](https://streamsolty.booth.pm/items/8413837) | ¥1,480 | Promptアーキテクチャ + ワークフロー13種 |
 
 ---
 
