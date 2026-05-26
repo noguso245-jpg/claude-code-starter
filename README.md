@@ -73,7 +73,7 @@ claude
 | カスタムコマンド | なし | **10コマンド** |
 | セットアップサポート | なし | **30分ガイド付き** |
 
-### [完全版を入手する → ¥9,800](https://streamsolty.gumroad.com/l/gliwz)
+### [完全版を入手する → ¥9,800](https://streamsolty.gumroad.com/l/vhcysn)
 
 7日間全額返金保証。使ってみてから判断してください。
 
