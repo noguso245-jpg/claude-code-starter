@@ -34,7 +34,7 @@ claude-code-starter/
 
 ```bash
 # 1. このリポジトリをクローン
-git clone https://github.com/[username]/claude-code-starter
+git clone https://github.com/noguso245-jpg/claude-code-starter
 
 # 2. プロジェクトの.claude/フォルダにコピー
 cp claude-code-starter/templates/CLAUDE.md your-project/.claude/CLAUDE.md
@@ -73,7 +73,7 @@ claude
 | カスタムコマンド | なし | **10コマンド** |
 | セットアップサポート | なし | **30分ガイド付き** |
 
-### [完全版を入手する → ¥9,800](https://gumroad.com/[username])
+### [完全版を入手する → ¥9,800](https://streamsolty.gumroad.com/l/gliwz)
 
 7日間全額返金保証。使ってみてから判断してください。
 
@@ -108,4 +108,4 @@ Watchしておくと通知が届きます。
 
 ---
 
-**X（Twitter）でも最新情報を発信しています：[@username]**
+**X（Twitter）でも最新情報を発信しています：[@k___n___t_1125](https://x.com/k___n___t_1125)**
